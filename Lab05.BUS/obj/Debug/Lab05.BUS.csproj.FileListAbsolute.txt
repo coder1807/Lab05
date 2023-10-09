@@ -1,0 +1,15 @@
+D:\C# homework\Lab05\Lab05.BUS\bin\Debug\Lab05.BUS.dll.config
+D:\C# homework\Lab05\Lab05.BUS\bin\Debug\Lab05.BUS.dll
+D:\C# homework\Lab05\Lab05.BUS\bin\Debug\Lab05.BUS.pdb
+D:\C# homework\Lab05\Lab05.BUS\bin\Debug\Lab05.DAL.dll
+D:\C# homework\Lab05\Lab05.BUS\bin\Debug\Lab05.DAL.pdb
+D:\C# homework\Lab05\Lab05.BUS\bin\Debug\Lab05.DAL.dll.config
+D:\C# homework\Lab05\Lab05.BUS\bin\Debug\EntityFramework.xml
+D:\C# homework\Lab05\Lab05.BUS\obj\Debug\Lab05.BUS.csproj.AssemblyReference.cache
+D:\C# homework\Lab05\Lab05.BUS\obj\Debug\Lab05.BUS.csproj.CoreCompileInputs.cache
+D:\C# homework\Lab05\Lab05.BUS\obj\Debug\Lab05.BUS.csproj.CopyComplete
+D:\C# homework\Lab05\Lab05.BUS\obj\Debug\Lab05.BUS.dll
+D:\C# homework\Lab05\Lab05.BUS\obj\Debug\Lab05.BUS.pdb
+D:\C# homework\Lab05\Lab05.BUS\bin\Debug\EntityFramework.dll
+D:\C# homework\Lab05\Lab05.BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\C# homework\Lab05\Lab05.BUS\bin\Debug\EntityFramework.SqlServer.xml
